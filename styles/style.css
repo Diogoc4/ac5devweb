@@ -19,7 +19,7 @@
 body {
     min-width: 375px;
     min-height: 667px;
-    /* background-color: black; */
+    background-color: black;
 }
 
 
@@ -101,8 +101,43 @@ nav.navbar-menu>ul>li>a:hover {
 /* main-content-container */
 
 main.main-content-container {
+    margin-top: 20px;
     padding: 20px;
     text-align: justify;
+    background-color: white;
+}
+
+main.main-content-container>h3 {
+    font-size: 1.8em;
+    font-weight: 200;
+}
+
+main.main-content-container>img {
+    margin-top: 30px;
+}
+
+main.main-content-container>p {
+    margin-top: 30px;
+    font-size: 1em;
+    font-weight: 100;
+    text-indent: 30px;
+    line-height: 1.5;
+}
+
+main.main-content-container>ol {
+    margin-top: 30px;
+    padding: 0 30px;
+    font-size: 1em;
+    text-indent: 10px;
+    line-height: 1.5;
+}
+
+main.main-content-container>ol>li {
+    margin: 20px 0;
+}
+
+main.main-content-container>ol>li>span.li_bold {
+    font-weight: bold;
 }
 
 /* main-content-container */
