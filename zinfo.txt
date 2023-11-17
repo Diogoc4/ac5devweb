@@ -1,0 +1,98 @@
+Estrutura do Site:
+Página Inicial:
+
+Breve introdução à computação quântica.
+Descrição do propósito do site.
+Menu de navegação para outras páginas.
+Chamada para ação (Call-to-Action) encorajando a explorar mais.
+
+
+Sobre a Computação Quântica:
+
+Explicação básica sobre o que é a computação quântica.
+Vantagens e desvantagens em comparação com a computação clássica.
+Visualizações gráficas ou animações simples para facilitar a compreensão.
+
+
+Como Ingressar na Área de Computação Quântica:
+
+Educação e habilidades necessárias.
+Recursos online e offline para aprender (cursos, livros, tutoriais).
+Experiências práticas e projetos recomendados.
+
+
+Aplicações Práticas da Computação Quântica:
+
+Setores e indústrias que podem se beneficiar.
+Estudos de caso e exemplos reais.
+Impacto potencial no campo da ciência da computação.
+
+
+Desafios e Oportunidades:
+
+Desafios atuais na computação quântica.
+Oportunidades de pesquisa e desenvolvimento.
+Como os profissionais podem contribuir para avanços na área.
+
+
+Entendendo a Matemática por Trás da Computação Quântica:
+
+Conceitos matemáticos fundamentais.
+Recursos para aprofundamento.
+
+
+Composição das Páginas:
+
+Página Inicial:
+
+Banner atrativo e informativo.
+Breve descrição do conteúdo do site.
+Navegação fácil para outras seções.
+
+
+Sobre a Computação Quântica:
+
+Seções claras sobre definições e fundamentos.
+Gráficos ou animações explicativas.
+Links para recursos adicionais.
+
+
+Como Ingressar na Área de Computação Quântica:
+
+Lista de cursos e universidades renomadas.
+Depoimentos de profissionais na área.
+Guias passo a passo para começar a aprender.
+
+
+Aplicações Práticas da Computação Quântica:
+
+Estudos de caso com descrições detalhadas.
+Infográficos ou diagramas para ilustrar aplicações.
+Vídeos explicativos, se possível.
+
+
+Desafios e Oportunidades:
+
+Gráficos ou infográficos destacando desafios.
+Seção de oportunidades para engajamento.
+
+
+Entendendo a Matemática por Trás da Computação Quântica:
+
+Explicações claras e exemplos práticos.
+Links para recursos adicionais, incluindo tutoriais interativos.
+
+
+Menu de Navegação:
+Início
+Sobre a Computação Quântica
+Como Ingressar
+Aplicações Práticas
+Desafios e Oportunidades
+Matemática da Computação Quântica
+
+
+Dicas Adicionais:
+Utilize um design responsivo para garantir que o site seja acessível em diferentes dispositivos.
+Inclua imagens e gráficos para tornar o conteúdo mais envolvente.
+Permita comentários ou uma seção de perguntas frequentes para interação com os visitantes.
