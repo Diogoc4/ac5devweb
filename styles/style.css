@@ -118,6 +118,10 @@ main.main-content-container>img {
     margin: 30px auto 0 auto;
 }
 
+main.main-content-container>img.size-img {
+    width: 335px;
+}
+
 main.main-content-container>p {
     margin-top: 30px;
     font-size: 1em;
