@@ -109,10 +109,13 @@ main.main-content-container {
 main.main-content-container>h3 {
     font-size: 1.8em;
     font-weight: 200;
+    text-align: center;
 }
 
 main.main-content-container>img {
+    display: block;
     margin-top: 30px;
+    margin: 30px auto 0 auto;
 }
 
 main.main-content-container>p {
@@ -120,6 +123,7 @@ main.main-content-container>p {
     font-size: 1em;
     font-weight: 100;
     text-indent: 30px;
+    text-align: justify;
     line-height: 1.5;
 }
 
@@ -133,10 +137,6 @@ main.main-content-container>ol {
 
 main.main-content-container>ol>li {
     margin: 20px 0;
-}
-
-main.main-content-container>ol>li>span.li_bold {
-    font-weight: bold;
 }
 
 /* main-content-container */
