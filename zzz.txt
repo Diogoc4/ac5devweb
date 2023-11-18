@@ -1,0 +1,83 @@
+**O que é a computação quântica?**
+
+A computação quântica é uma ciência que estuda o desenvolvimento de algoritmos e softwares com base em informações que são processadas por sistemas quânticos, como átomos, fótons ou partículas subatômicas¹. Diferentemente dos computadores clássicos, os computadores quânticos operam de acordo com as leis probabilísticas da física quântica¹. A computação quântica é um campo multidisciplinar que compreende aspectos da ciência da computação, da física e da matemática e que utiliza a mecânica quântica para resolver problemas complexos mais rapidamente do que em computadores tradicionais².
+
+**Vantagens e desvantagens da computação quântica em comparação com a computação clássica**
+
+*Vantagens:*
+- Os qubits na computação quântica realizam uma superposição de todos os estados possíveis⁶.
+- Os computadores quânticos podem resolver problemas complexos mais rapidamente do que os computadores clássicos⁶.
+- A computação quântica é mais apropriada para análise de dados⁶.
+- Os qubits conseguem suportar muitos estados ao mesmo tempo, se tornando mais capaz em seu processamento⁹.
+
+*Desvantagens:*
+- A computação quântica tem uma alta taxa de erro⁶.
+- A computação quântica apresenta o desafio de garantir que as unidades de informação quântica estejam sempre em estado coerente e controlado⁷.
+- Os qubits são muito sensíveis e podem perder suas propriedades quânticas com facilidade⁸.
+
+**Visualizações gráficas ou animações simples para facilitar a compreensão**
+
+Infelizmente, não posso fornecer visualizações gráficas ou animações diretamente. No entanto, você pode encontrar recursos visuais úteis para entender a computação quântica em sites como o da [Microsoft Azure Quantum](^10^) e [IBM Quantum](^3^). Esses sites oferecem uma variedade de materiais educacionais, incluindo visualizações e animações, que podem ajudar a ilustrar os conceitos de computação quântica.
+
+Origem: conversa com o Bing, 17/11/2023
+(1) . https://bing.com/search?q=O+que+%c3%a9+a+computa%c3%a7%c3%a3o+qu%c3%a2ntica.
+(2) O que é computação quântica? – Explicação sobre computação quântica – AWS. https://aws.amazon.com/pt/what-is/quantum-computing/.
+(3) Computação Quântica vs Computação Clássica: Diferença e Comparação. https://askanydifference.com/pt/difference-between-quantum-computing-and-classical-computing-with-table/.
+(4) Computação quântica: o que é e como funciona? - Olhar Digital. https://olhardigital.com.br/2023/07/12/ciencia-e-espaco/o-que-e-um-computador-quantico-e-como-ele-funciona/.
+(5) Computação Quântica: o que é, como funciona e suas vantagens! - Voitto. https://www.voitto.com.br/blog/artigo/computacao-quantica.
+(6) Computador quântico: o que é e funções - eCycle. https://www.ecycle.com.br/computador-quantico/.
+(7) Noções básicas sobre a computação quântica - Azure Quantum. https://learn.microsoft.com/pt-br/azure/quantum/overview-understanding-quantum-computing.
+(8) O que é computação quântica? | IBM. https://www.ibm.com/br-pt/topics/quantum-computing.
+(9) O que é computação quântica? - Brasil Escola. https://brasilescola.uol.com.br/o-que-e/fisica/o-que-e-computacao-quantica.htm.
+(10) O que é computação quântica? - Forbes - Forbes Brasil. https://forbes.com.br/forbes-tech/2023/06/o-que-e-computacao-quantica/.
+(11) O Que é Computação Quântica? | Blog da NVIDIA. https://blog.nvidia.com.br/2021/05/11/o-que-e-computacao-quantica/.
+(12) Como aprender Física Quântica programando um Computador Quântico real .... https://brazilquantum.medium.com/como-aprender-f%C3%ADsica-qu%C3%A2ntica-programando-um-computador-qu%C3%A2ntico-real-1de9a3896324.
+(13) undefined. https://www.iberdrola.com/inovacao/o-que-e-computacao-quantica.
+(14) undefined. https://www.totvs.com/blog/inovacoes/computacao-quantica/.
+
+
+
+/////////////////////////////////////////////////////////////////////////////
+
+
+Claro, vamos detalhar cada tópico:
+
+**1. O que é a computação quântica?**
+
+A computação quântica é um campo multidisciplinar que compreende aspectos da ciência da computação, da física e da matemática. Ela utiliza a mecânica quântica para resolver problemas complexos mais rapidamente do que em computadores tradicionais³. Os computadores quânticos operam de acordo com as leis probabilísticas da física quântica¹. Eles são capazes de resolver certos tipos de problemas mais rapidamente do que os computadores tradicionais, aproveitando os efeitos da mecânica quântica, como superposição e interferência quântica³.
+
+**2. Vantagens e desvantagens da computação quântica em comparação com a computação clássica**
+
+*Vantagens:*
+- Os qubits na computação quântica realizam uma superposição de todos os estados possíveis⁶.
+- Os computadores quânticos podem resolver problemas complexos mais rapidamente do que os computadores clássicos⁶.
+- A computação quântica é mais apropriada para análise de dados⁶.
+- Os qubits conseguem suportar muitos estados ao mesmo tempo, se tornando mais capaz em seu processamento⁹.
+
+*Desvantagens:*
+- A computação quântica tem uma alta taxa de erro⁶.
+- A computação quântica apresenta o desafio de garantir que as unidades de informação quântica estejam sempre em estado coerente e controlado⁷.
+- Os qubits são muito sensíveis e podem perder suas propriedades quânticas com facilidade⁸.
+
+**3. Visualizações gráficas ou animações simples para facilitar a compreensão**
+
+Infelizmente, não posso fornecer visualizações gráficas ou animações diretamente. No entanto, você pode encontrar recursos visuais úteis para entender a computação quântica em sites como o da [Microsoft Azure Quantum](^13^) e [AWS](^3^). Esses sites oferecem uma variedade de materiais educacionais, incluindo visualizações e animações, que podem ajudar a ilustrar os conceitos de computação quântica.
+
+Origem: conversa com o Bing, 17/11/2023
+(1) O que é computação quântica? – Explicação sobre computação quântica – AWS. https://aws.amazon.com/pt/what-is/quantum-computing/.
+(2) O que é computação quântica? - Brasil Escola. https://brasilescola.uol.com.br/o-que-e/fisica/o-que-e-computacao-quantica.htm.
+(3) . https://bing.com/search?q=Detalhes+sobre+as+vantagens+da+computa%c3%a7%c3%a3o+qu%c3%a2ntica.
+(4) Computação quântica: o que é e como funciona? - Olhar Digital. https://olhardigital.com.br/2023/07/12/ciencia-e-espaco/o-que-e-um-computador-quantico-e-como-ele-funciona/.
+(5) Computação Quântica: o que é, como funciona e suas vantagens! - Voitto. https://www.voitto.com.br/blog/artigo/computacao-quantica.
+(6) Computação quântica: Entenda mais sobre essa tendência - Blog da Simply. https://blog.simply.com.br/computacao-quantica/.
+(7) Noções básicas sobre a computação quântica - Azure Quantum. https://learn.microsoft.com/pt-br/azure/quantum/overview-understanding-quantum-computing.
+(8) O que é computação quântica? – Explicação sobre computação quântica – AWS. https://aws.amazon.com/pt/what-is/quantum-computing/.
+(9) . https://bing.com/search?q=Detalhes+sobre+o+que+%c3%a9+a+computa%c3%a7%c3%a3o+qu%c3%a2ntica.
+(10) O que é computação quântica? - Forbes - Forbes Brasil. https://forbes.com.br/forbes-tech/2023/06/o-que-e-computacao-quantica/.
+(11) A Computação Quântica e seus beneficios - Netcraw. https://www.netcraw.com/artigo/a-computacao-quantica-e-seus-beneficios/.
+(12) . https://bing.com/search?q=Detalhes+sobre+as+desvantagens+da+computa%c3%a7%c3%a3o+qu%c3%a2ntica.
+(13) Os mitos e a realidade sobre os computadores quânticos. https://www.bbc.com/portuguese/geral-61318184.
+(14) O que é computação quântica e qual o seu impacto? - TOTVS. https://www.totvs.com/blog/inovacoes/computacao-quantica/.
+(15) Diagramas de circuito quântico - Azure Quantum | Microsoft Learn. https://learn.microsoft.com/pt-br/azure/quantum/concepts-circuits.
+(16) O que é Computação Quântica | Microsoft Azure. https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-quantum-computing/.
+(17) undefined. https://learn.microsoft.com/pt-pt/azure/quantum/overview-understanding-quantum-computing.

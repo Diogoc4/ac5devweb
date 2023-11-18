@@ -107,9 +107,17 @@ main.main-content-container {
 }
 
 main.main-content-container>h3 {
+    padding-top: 20px;
     font-size: 1.8em;
     font-weight: 200;
-    text-align: center;
+    text-align: left;
+}
+
+main.main-content-container>h4 {
+    padding-top: 20px;
+    font-size: 1.3em;
+    font-weight: 400;
+    text-align: left;
 }
 
 main.main-content-container>img {
@@ -131,7 +139,8 @@ main.main-content-container>p {
     line-height: 1.5;
 }
 
-main.main-content-container>ol {
+main.main-content-container>ol,
+main.main-content-container>ul {
     margin-top: 30px;
     padding: 0 30px;
     font-size: 1em;
@@ -139,8 +148,14 @@ main.main-content-container>ol {
     line-height: 1.5;
 }
 
-main.main-content-container>ol>li {
+main.main-content-container>ol>li,
+main.main-content-container>ul>li {
     margin: 20px 0;
+}
+
+main.main-content-container>ul.refs {
+    list-style-type: decimal;
+    margin: 0;
 }
 
 /* main-content-container */
