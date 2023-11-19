@@ -20,6 +20,9 @@ body {
     min-width: 375px;
     min-height: 667px;
     background-color: black;
+    max-width: 1920px;
+    max-height: 1080px;
+    width: 100%;
 }
 
 
@@ -122,12 +125,19 @@ main.main-content-container>h4 {
 
 main.main-content-container>img {
     display: block;
-    margin-top: 30px;
+    margin: 10px 0;
     margin: 30px auto 0 auto;
 }
 
 main.main-content-container>img.size-img {
     width: 335px;
+}
+
+main.main-content-container>iframe {
+    display: block;
+    margin: 30px auto 0 auto;
+    width: 335px;
+    height: 225px;
 }
 
 main.main-content-container>p {
