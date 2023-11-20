@@ -168,4 +168,22 @@ main.main-content-container>ul.refs {
     margin: 0;
 }
 
+main.main-content-container>ol>div.books-img {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+}
+
+main.main-content-container>ol>div.books-img>img {
+    display: inline-block;
+    width: 150px;
+}
+
+main.main-content-container>ol>div.books-img>blockquote {
+    padding: 10px;
+    margin-top: 20px;
+}
+
 /* main-content-container */
