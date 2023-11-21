@@ -9,12 +9,12 @@ function dropdownMenu() {
         menu.style.display = "none";
         menuhamb.style.display = "block";
         menuclose.style.display = "none";
-        asidebar.style.display = "block";
-
-    } else {
+        asidebar.style.top = "100px";
+    }
+    else {
         menu.style.display = "block";
         menuhamb.style.display = "none";
         menuclose.style.display = "block";
-        asidebar.style.display = "none";
+        asidebar.style.top = "350px";
     }
 }
