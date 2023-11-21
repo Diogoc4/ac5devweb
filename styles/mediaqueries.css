@@ -11,11 +11,18 @@
         width: 475px;
     }
 
-    main.main-content-container>iframe {
+    main.main-content-container>iframe.size-iframe {
         display: block;
         margin: 30px auto 0 auto;
-        width: 560px;
+        width: 490px;
         height: 315px;
+    }
+
+    main.main-content-container>ul>iframe.size-iframe {
+        display: block;
+        margin: 0 auto;
+        width: 425px;
+        height: 275px;
     }
 }
 
@@ -27,13 +34,6 @@
 
     main.main-content-container>img.size-img {
         width: 590px;
-    }
-
-    main.main-content-container>iframe {
-        display: block;
-        margin: 30px auto 0 auto;
-        width: 700px;
-        height: 450px;
     }
 }
 
@@ -55,6 +55,33 @@
         font-size: 1em;
         text-indent: 10px;
         line-height: 1.5;
+    }
+
+    main.main-content-container>ol>div.books-img {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        padding: 10px 30px;
+    }
+
+    main.main-content-container>ol>div.books-img>img {
+        display: inline-block;
+        width: 215px;
+    }
+
+    main.main-content-container>ol>div.books-img>blockquote {
+        display: inline-block;
+        padding: 10px;
+        margin: 20px auto 0 auto;
+        width: 50%;
+    }
+
+    main.main-content-container>ul>iframe.size-iframe {
+        display: block;
+        margin: 0 50px;
+        width: 490px;
+        height: 315px;
     }
 }
 
