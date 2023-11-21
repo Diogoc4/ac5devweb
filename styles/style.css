@@ -135,8 +135,8 @@ main.main-content-container>img.size-img {
 
 main.main-content-container>p {
     margin-top: 30px;
-    font-size: 1.1em;
-    font-weight: 200;
+    font-size: 1em;
+    font-weight: normal;
     text-indent: 30px;
     text-align: justify;
     line-height: 1.5;
