@@ -19,7 +19,8 @@
 body {
     min-width: 320px;
     min-height: 669px;
-    max-width: 1336px;
+    max-width: 1920px;
+    max-height: 1080px;
     width: 100%;
     margin: auto;
     background-color: var(--cor2);
@@ -57,7 +58,7 @@ nav.navbar-menu {
 nav.navbar-menu>span {
     display: block;
     padding: 8px;
-    border: 2px solid rgba(0, 0, 0, 0.25);
+    border: 2px solid rgba(0, 0, 0, 0.15);
 }
 
 nav.navbar-menu>span>img {
@@ -85,10 +86,10 @@ nav.navbar-menu>ul>li>a {
     color: black;
     text-align: left;
     text-decoration: none;
-    padding: 10px;
+    padding: 12px;
     font-weight: bold;
     color: white;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
 }
 
 nav.navbar-menu>ul>li>a:hover {
@@ -105,35 +106,36 @@ nav.navbar-menu>ul>li>a:hover {
 
 main.main-content-container {
     padding: 20px;
+    width: 100%;
     text-align: justify;
     background-color: white;
 }
 
-main.main-content-container>h3 {
+main.main-content-container>section.main-content-section>h3 {
     padding-top: 20px;
     font-size: 1.8em;
     font-weight: 500;
     text-align: left;
 }
 
-main.main-content-container>h4 {
+main.main-content-container>section.main-content-section>h4 {
     padding-top: 20px;
     font-size: 1.5em;
     font-weight: 400;
     text-align: left;
 }
 
-main.main-content-container>img {
+main.main-content-container>section.main-content-section>img {
     display: block;
     margin: 10px 0;
     margin: 30px auto 0 auto;
 }
 
-main.main-content-container>img.size-img {
+main.main-content-container>section.main-content-section>img.size-img {
     width: 285px;
 }
 
-main.main-content-container>p {
+main.main-content-container>section.main-content-section>p {
     margin-top: 30px;
     font-size: 1em;
     font-weight: normal;
@@ -143,8 +145,8 @@ main.main-content-container>p {
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.05);
 }
 
-main.main-content-container>ol,
-main.main-content-container>ul {
+main.main-content-container>section.main-content-section>ol,
+main.main-content-container>section.main-content-section>ul {
     margin-top: 30px;
     padding: 0 50px;
     font-size: 1em;
@@ -152,17 +154,17 @@ main.main-content-container>ul {
     line-height: 1.5;
 }
 
-main.main-content-container>ol>li,
-main.main-content-container>ul>li {
+main.main-content-container>section.main-content-section>ol>li,
+main.main-content-container>section.main-content-section>ul>li {
     margin: 20px 0;
 }
 
-main.main-content-container>ul.refs {
+main.main-content-container>section.main-content-section>ul.refs {
     list-style-type: decimal;
     margin: 0;
 }
 
-main.main-content-container>ol>div.books-img {
+main.main-content-container>section.main-content-section>ol>div.books-img {
     display: flex;
     flex-flow: column wrap;
     justify-content: space-between;
@@ -170,28 +172,32 @@ main.main-content-container>ol>div.books-img {
     padding: 5px 20px;
 }
 
-main.main-content-container>ol>div.books-img>img {
+main.main-content-container>section.main-content-section>ol>div.books-img>img {
     display: inline-block;
     width: 150px;
 }
 
-main.main-content-container>ol>div.books-img>blockquote {
+main.main-content-container>section.main-content-section>ol>div.books-img>blockquote {
     padding: 10px;
     margin-top: 20px;
 }
 
-main.main-content-container>iframe.size-iframe {
+main.main-content-container>section.main-content-section>iframe.size-iframe {
     display: block;
     margin: 30px auto 0 auto;
     width: 285px;
     height: 225px;
 }
 
-main.main-content-container>ul>iframe.size-iframe {
+main.main-content-container>section.main-content-section>ul>iframe.size-iframe {
     display: block;
     margin: 0 auto;
     width: 205px;
     height: 175px;
+}
+
+main.main-content-container>aside.side-content-navigation {
+    display: none;
 }
 
 /* main-content-container */
