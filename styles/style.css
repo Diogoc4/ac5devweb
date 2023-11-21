@@ -53,6 +53,7 @@ nav.navbar-menu {
     overflow: hidden;
     position: sticky;
     top: 0;
+    width: 100%;
 }
 
 nav.navbar-menu>span {
@@ -104,6 +105,7 @@ nav.navbar-menu>ul>li>a:hover {
 
 /* main-content-container */
 
+/* main-content-section */
 main.main-content-container {
     padding: 20px;
     width: 100%;
@@ -196,8 +198,18 @@ main.main-content-container>section.main-content-section>ul>iframe.size-iframe {
     height: 175px;
 }
 
+/* main-content-section */
+
+/* side-content-navigation */
+
 main.main-content-container>aside.side-content-navigation {
     display: none;
+}
+
+/* side-content-navigation */
+
+main.main-content-container>section.main-content-section>hr {
+    margin: 50px auto 20px auto;
 }
 
 /* main-content-container */
