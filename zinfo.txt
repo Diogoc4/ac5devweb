@@ -9,8 +9,8 @@ Chamada para ação (Call-to-Action) encorajando a explorar mais.
 
 Sobre a Computação Quântica:
 
-Explicação básica sobre o que é a computação quântica.
-Vantagens e desvantagens em comparação com a computação clássica.
+Explicação básica sobre o que é a computação quântica. ✓
+Vantagens e desvantagens em comparação com a computação clássica. ✓
 Visualizações gráficas ou animações simples para facilitar a compreensão.
 
 
