@@ -17,8 +17,8 @@
 
 
 body {
-    min-width: 375px;
-    min-height: 667px;
+    min-width: 320px;
+    min-height: 669px;
     max-width: 1336px;
     width: 100%;
     margin: auto;
@@ -112,13 +112,13 @@ main.main-content-container {
 main.main-content-container>h3 {
     padding-top: 20px;
     font-size: 1.8em;
-    font-weight: 200;
+    font-weight: 500;
     text-align: left;
 }
 
 main.main-content-container>h4 {
     padding-top: 20px;
-    font-size: 1.3em;
+    font-size: 1.5em;
     font-weight: 400;
     text-align: left;
 }
@@ -130,16 +130,17 @@ main.main-content-container>img {
 }
 
 main.main-content-container>img.size-img {
-    width: 335px;
+    width: 285px;
 }
 
 main.main-content-container>p {
     margin-top: 30px;
-    font-size: 1em;
-    font-weight: 100;
+    font-size: 1.1em;
+    font-weight: 200;
     text-indent: 30px;
     text-align: justify;
     line-height: 1.5;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.05);
 }
 
 main.main-content-container>ol,
@@ -182,15 +183,15 @@ main.main-content-container>ol>div.books-img>blockquote {
 main.main-content-container>iframe.size-iframe {
     display: block;
     margin: 30px auto 0 auto;
-    width: 335px;
+    width: 285px;
     height: 225px;
 }
 
 main.main-content-container>ul>iframe.size-iframe {
     display: block;
     margin: 0 auto;
-    width: 235px;
-    height: 225px;
+    width: 205px;
+    height: 175px;
 }
 
 /* main-content-container */
