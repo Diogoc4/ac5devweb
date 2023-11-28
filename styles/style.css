@@ -138,6 +138,10 @@ main.main-content-container>section.main-content-section>img.size-img {
     width: 285px;
 }
 
+main.main-content-container>section.main-content-section>img.size-img-collab {
+    width: 265px;
+}
+
 main.main-content-container>section.main-content-section>p {
     margin-top: 30px;
     font-size: 1em;
