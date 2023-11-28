@@ -141,7 +141,84 @@
 
             <hr>
 
-            <h3 id="sec3"></h3>
+            <h3 id="sec3">Como Utilizar um Algoritmo Quântico na Prática</h3>
+
+            <p>
+                Para fazermos essa experiência, iremos usar o <strong><a href="https://colab.new/"
+                        target="_blank">Google
+                        Collab</a></strong>, que é um serviço Jupyter Notebook hospedado que não requer configuração
+                para uso e fornece acesso gratuito a recursos de computação, incluindo GPUs e TPUs.
+                Nesta primeira experiência, iremos fazer o famoso "Hello World", que é tradicionalmente usado para
+                apresentar programadores novatos a uma linguagem de programação, mas, dessa vez, faremos isso na maneira
+                "quântica".
+            </p>
+
+            <p>
+                Primeiramente, para fazermos o nosso programa temos que construir e executar circuitos quânticos.
+                Circuitos quânticos são uma sequência de portas quânticas, e esses circuitos são referidos como "um
+                registro n-qubit". Para isso, iremos usar dois comandos:
+            </p>
+
+            <img class="size-img" src="../img/content-img/pip-install-libs.jpg" alt="pip install">
+
+            <p>
+                A próxima coisa que faremos é começar a construir o registro quântico. Teremos que primeiro codificar a
+                entrada, fazer alguns cálculos e extrair uma saída. Primeiro vamos importar as bibliotecas Qiskit,
+                pylatexenc e seus
+                pacotes associados.
+            </p>
+
+            <img class="size-img" src="../img/content-img/import-libs.jpg" alt="import libs">
+
+            <p>
+                Em seguida, inicializaremos um registro quântico com 2 qubits. Um qubit é a unidade fundamental de um
+                circuito quântico, o análogo de um pouco na computação clássica! Também inicializaremos um registro
+                clássico com 2 qubits. A maioria dos circuitos será uma combinação de registros clássicos e quânticos,
+                como os registradores quânticos serão usados para realizar operações de mecânica quântica em qubits, e
+                registros clássicos serão usados para realizar operações clássicas nas medidas obtidas.
+            </p>
+
+            <img class="size-img" src="../img/content-img/init-register.jpg" alt="init register">
+
+            <p>
+                No Qiskit, temos a opção de visualizar como o circuito quântico fica executando o seguinte comando:
+            </p>
+
+            <img class="size-img" src="../img/content-img/draw1.png" alt="quantum circuit draw1">
+
+            <p>
+                Veremos dois bits quânticos e dois bits clássicos.
+                Veremos o efeito de aplicar um portão quântico em um único bit, o portão de Hadamard, que é um portão
+                usado para criar superposição.
+                Faremos isso executando o seguinte comando para o primeiro qubit no registro quântico. Observe que a
+                indexação começa a partir de 0 em Python.
+            </p>
+
+            <img class="size-img" src="../img/content-img/draw2.png" alt="quantum circuit draw2">
+
+            <p>
+                Vamos explorar portões mais fundamentais, como o portão cx que é um portão x controlado, e o portão
+                executa um NÃO no qubit de destino se o qubit de controle estiver no estado 1. Por padrão, todos os
+                qubits são inicializados para o estado 0.
+                O qubit de controle é o primeiro parâmetro ou qr[0] neste caso e o parâmetro de destino é qr[1].
+                No circuito seguinte, o qubit alvo é um círculo com um sinal de adição e o controle é um ponto.
+            </p>
+
+            <img class="size-img" src="../img/content-img/draw3.png" alt="quantum circuit draw3">
+
+            <p>
+                Este circuito é usado para implementar o emaranhamento entre dois qubits. Depois de inicializar um
+                circuito quântico e realizar computação implementando portas quânticas, extrairemos as saídas usando a
+                função .measure() no Qiskit. Neste exemplo, os bits clássicos serão usados para armazenar as saídas. As
+                setas apontam dos qubits, para os bits clássicos que são usados para armazenar as saídas extraídas.
+            </p>
+
+            <img class="size-img" src="../img/content-img/draw4.png" alt="quantum circuit draw4">
+
+            <p>
+                E este foi basicamente o nosso primeiro "Hello World" na programação quântica!!
+            </p>
+
 
         </section>
 
@@ -149,7 +226,7 @@
             <ul>
                 <li><a href="#sec1">Entendendo a Matemática por Trás da Computação Quântica</a></li>
                 <li><a href="#sec2">O Algoritmo Quântico</a></li>
-                <li><a href="#sec3">Conceitos importantes da computação quântica</a></li>
+                <li><a href="#sec3">Como Utilizar um Algoritmo Quântico na Prática</a></li>
             </ul>
         </aside>
 
